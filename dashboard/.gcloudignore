@@ -1,0 +1,8 @@
+# Not uploaded when deploying: secrets, local build output and the local database
+env.yaml
+.env*
+node_modules/
+.next/
+.pglite/
+*.tsbuildinfo
+npm-debug.log*

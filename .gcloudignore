@@ -1,0 +1,18 @@
+# Only the Python app is needed to build the Cloud Run image
+.git/
+.gitignore
+env.yaml
+.env.yaml
+.env*
+env.yaml.example
+README.md
+docs/
+tools/
+sheet-template/
+tests/
+requirements-dev.txt
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+dashboard/

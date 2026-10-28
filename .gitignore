@@ -1,0 +1,10 @@
+# secrets: never commit
+env.yaml
+.env.yaml
+.env*
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
